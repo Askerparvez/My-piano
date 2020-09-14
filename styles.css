@@ -75,3 +75,14 @@ td {
   padding: 20px;
   border: 2px solid white;
 }
+@media (max-width:1100px) {
+
+  .Pianotiles{
+       transform: rotate(90deg);
+
+  }
+  .frst{
+    height: 1500px;
+  }
+
+}
